@@ -1,16 +1,4 @@
-from typing import TypedDict, List, Optional
+from typing import Dict, List, Any
 
-class Transaction(TypedDict, total=False):
-    """
-    Standardized transaction format used across tools & agents.
-    All fields are JSON-friendly.
-    """
-    date: str           # ISO date: "2025-11-26"
-    description: str
-    amount: float
-    currency: str
-    category: Optional[str]
-    source: Optional[str]
-
-
+Transaction = Dict[str, Any]
 TransactionList = List[Transaction]

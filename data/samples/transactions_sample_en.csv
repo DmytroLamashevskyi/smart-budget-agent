@@ -1,0 +1,11 @@
+Date,Description,Amount,Currency,Category,Type,Account
+2025-10-01,Salary October,3000.00,USD,Income,CREDIT,Checking
+2025-10-02,Rent payment,-1200.00,USD,Housing,DEBIT,Checking
+2025-10-03,Groceries Walmart,-86.45,USD,Groceries,DEBIT,Checking
+2025-10-03,Spotify,-9.99,USD,Subscriptions,DEBIT,Credit Card
+2025-10-04,Uber ride home,-14.20,USD,Transport,DEBIT,Credit Card
+2025-10-05,Coffee shop,-4.50,USD,Eating Out,DEBIT,Checking
+2025-10-06,Electricity bill,-63.10,USD,Utilities,DEBIT,Checking
+2025-10-07,Amazon order,-45.00,USD,Shopping,DEBIT,Credit Card
+2025-10-08,Tax refund,120.00,USD,Income,CREDIT,Checking
+2025-10-09,Gym membership,-39.90,USD,Health,DEBIT,Credit Card

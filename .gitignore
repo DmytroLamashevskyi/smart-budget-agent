@@ -1,1 +1,5 @@
 smart_budget_agent/.env
+.venv
+__pycache__/
+
+/data/tmp/
