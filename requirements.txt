@@ -1,0 +1,4 @@
+google-adk
+pandas
+matplotlib
+python-dotenv
